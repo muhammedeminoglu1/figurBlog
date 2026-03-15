@@ -20,6 +20,8 @@ function Hero() {
       <div className={styles.content}>
         <div className={styles.badge}>The Ultimate Wrestling Experience</div>
 
+        <div className={styles.madeBy}>MADE BY ARDA BAYHAN</div>
+
         <h1 className={styles.title}>
           WWE
           <span className={styles.titleHighlight}>Legends</span>
